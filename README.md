@@ -1,1 +1,1 @@
-# GallaryIQ
+# AuthIQ
